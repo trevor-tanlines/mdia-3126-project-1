@@ -9,6 +9,8 @@ export default function Bio({ bioText }) {
                     fontSize:30,
                     margin:50,
                     fontWeight:400,
+
+                    
                 }}>
                 {bioText}
             </Text>
